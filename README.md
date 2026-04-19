@@ -8,7 +8,7 @@ created: 2026-03-03
 ---
 These are my notes from the first of the 4 parts of _Elementary Chinese Readers_ by Sinolingua, China (`ISBN: 9780835125017`) published in 1989, which is the standard textbook for the part-time Chinese language course at **Delhi University**.
 
->[!INFO]
+>[!NOTE]
 >Some notes are somewhat stubs. Cross-reference with the textbook for topics that you feel thin.
 ## how to use
 
