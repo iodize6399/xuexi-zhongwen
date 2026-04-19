@@ -32,6 +32,9 @@ Lists all important assets and blobs.
 ![[pinyin-chart.pdf]]
 ## few past year papers
 
+>[!note]
+>These past year question papers were shared by the instructor on our batch’s WhatsApp group.
+
 ![[cp1_internal_23-24.doc]]
 
 ![[cp1_internal_23-24_setb.doc]]
