@@ -8,7 +8,7 @@ created: 2026-03-03
 ---
 These are my notes from the first of the 4 parts of _Elementary Chinese Readers_ by Sinolingua, China (`ISBN: 9780835125017`) published in 1989, which is the standard textbook for the part-time Chinese language course at **Delhi University**.
 
->[!INFO] WIP
+>[!INFO]
 >Some notes are somewhat stubs. Cross-reference with the textbook for topics that you feel thin.
 ## how to use
 
@@ -25,8 +25,8 @@ These are my notes from the first of the 4 parts of _Elementary Chinese Readers_
 - feel free to fork, contribute or do as you wish
 - I'll continue to enrich this repo with other series of books. Update your local copy using `git pull`
 
->[!CAUTION] Disclaimer
->The textbook PDF and audio in `assets/` are the intellectual property of Sinolingua.
+>[!NOTE]
+>Some resources in `assets/` are the intellectual property of Sinolingua.
 >They are included here strictly for personal educational reference.
 >If you are the rights holder and wish for these to be removed, please open an issue.
 
@@ -47,11 +47,11 @@ These are my notes from the first of the 4 parts of _Elementary Chinese Readers_
 - there are many `Chinese comprehensive input` videos on youtube, use them as well
 - not everything is 1:1 mapped, some concepts are linked with each other and appropriate lesson number is tagged
 
->[!CAUTION] Use Chinese frontier models
->Never rely on `ChatGPT` as it is not pedantic and correct when it comes to Chinese grammar, always use `Deepseek` or `Qwen`. I used Deepseek extensively.
+>[!CAUTION]
+>Never rely on `ChatGPT` as it is not pedantic and correct when it comes to Chinese grammar, always se Chinese frontier models  such as `Deepseek` or `Qwen`.
 
->[!TIP] Make a Custom GPT
->If you use any harness like `OpenCode`, create a custom agent stuffed with the flashcard XML and the textbook PDF in its context.
+>[!TIP] 
+>If you use any harness like `OpenCode`, create a custom GPT/agent stuffed with the flashcard XML and the textbook PDF in its context.
 >This way, you can query doubts or generate more practice exercises limited to the course.
 
 ## regarding course
