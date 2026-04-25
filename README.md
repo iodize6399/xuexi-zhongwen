@@ -13,10 +13,10 @@ These are my notes from the first of the 4 parts of _Elementary Chinese Readers_
 ## how to use
 
 > [!TIP]
-> These notes use **Obsidian-flavored markdown**.
+> These notes use **Obsidian-flavored markdown** hence, hence, are best viewed on Obsidian.
 
 1. clone or download this repo
-2. open the repo as a vault in [Obsidian](https://obsidian.md/help/vault#Open+existing+folder)
+2. simply open the repo as a vault in [Obsidian](https://obsidian.md/help/vault#Open+existing+folder)
 3. start previewing [[MoC]]
 4. checkout [[Resources]] 
 5. use property `lesson` to sort from lesson numbers, or simply search for an important word

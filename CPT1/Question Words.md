@@ -7,19 +7,20 @@ lesson:
 created: 2026-03-03
 ---
 1. 为什么 : why
-2. 谁 : who
-3. 谁的 : whose
-4. 哪儿 : where
-5. 什么 : what
-6. [[#什么时候]] : when
-7. [[#多少]] : how many, how much (with 钱)
-8. [[#几]] : how many, what time
-9. [[#还是]] : Choice-type questions
-10. [[#怎么样]] : how (to ask for condition of a noun or verb)
-11. 哪 : which
-12. 哪些 : which ones
-13. [[#Rhetorical question using `呢`|呢]] : What about ... ?
-14. `Adj. + 不 + Adj.`: Affirmative-negative
+2. 作什么/做什么: doing what?[^1]
+3. 谁 : who
+4. 谁的 : whose
+5. 哪儿 : where
+6. 什么 : what
+7. [[#什么时候]] : when
+8. [[#多少]] : how many, how much (with 钱)
+9. [[#几]] : how many, what time
+10. [[#还是]] : Choice-type questions
+11. [[#怎么样]] : how (to ask for condition of a noun or verb)
+12. 哪 : which
+13. 哪些 : which ones
+14. [[#Rhetorical question using `呢`|呢]] : What about ... ?
+15. `Adj. + 不 + Adj.`: Affirmative-negative
 
 ## Interrogative pronouns
 
@@ -118,3 +119,5 @@ End the question with `...好吗？`
 
 > 他打篮球打得很==好不好==？
 > Does he play basketball well or not?
+
+[^1]: 干什么 this and alternate 
