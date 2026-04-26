@@ -33,8 +33,8 @@ For both type 1 and type 2, put `不` before `是`
 
 >这本小说==不是==老师==的==。
 >This is not the teacher's novel.
->那件毛衣==不是==他==的==。
->This is not his sweater.
+>那件毛衣==不是==麦克==的==。
+>This is not Mike's sweater.
 
 
 ---

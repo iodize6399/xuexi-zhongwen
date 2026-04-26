@@ -39,15 +39,14 @@ lesson: 18
 >我==问==他三个问题。
 >I ask him 3 questions.
 
->安娜==还==她弟弟笔。
+>安娜==还==她弟弟钢笔。
 >Anna returns the pen to her younger brother.
 
 >我==借==好朋友一些钱。
 >I borrow some money from my best friend.
 
->你能==找==我十块钱吗？
->Can you give me ten Yuan change?
->
+>你==能找==我十块钱吗？
+>==Can== you ==give== me ten Yuan change?
 
 >[!tip] Use `从...借` to mean "borrow"
 >Sub. + 从 (cóng) + Person + 借 + Thing

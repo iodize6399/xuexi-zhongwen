@@ -32,7 +32,7 @@ lesson: 11
 # 位
 
 - For honorable persons
-- Doctor, teachers
+- Doctor, teachers, etc.
 # 篇
 
 - For articles
@@ -49,6 +49,8 @@ See: [[Usage of 些]]
 
 # 节
 
+- For lessons
+
 >我一个星期==只上五节汉语课==。
 >I attend only 5 Chinese classes in a week.
 
@@ -56,6 +58,10 @@ See: [[Usage of 些]]
 
 - For animals having legs or wings
 - Dogs, cats
+
+# 间 [^1]
+
+- For rooms
 
 ---
 

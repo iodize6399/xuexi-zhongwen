@@ -33,20 +33,30 @@ To indicate `with`
 
 ## `Location 1 + 离 + Location 2 `
 
+>图书馆离我家很远。
+>The library is very far from my home.
+
+>现在离三月还有十五天。
+>There are still fifteen days until March from today.
+
 ---
 
 # 从
 
 - Shows movement
 - subject's position relative to fixed location changes
+- non-comparison form of "from"
 
->我从图书馆回家。
->I return from library to home.
+>我==从==图书馆回家。
+>I return ==from== library to home.
 
 Consider the following sentences:
 1. 我==在==商店买东西。
 2. 我==从==商店买东西。
 `1.` is correct while `2.` is not, because, `从` must represent a movement. `2.` is an awkward sentence.
+
+>丁文==常从==阅览室借杂志。
+>Ding Wen ==often== borrows magazines ==from== the reading room.
 
 **Sentences that show a beginning of some activity from a specific time period or a location**
 
@@ -54,21 +64,13 @@ Consider the following sentences:
 
 >[!note]
 >`起` as a standalone means "to start/begin".
+>`起` is formal than `开始` which is colloquial. They both mean "to start/begin".
 
->我们可以从这儿起吗？
->Can we start from here?
-
-`从 (cóng) + Time + 起/开始 + Verb` = **"starting from..."** or "beginning at..."
-
->[!note]
->`起` is formal than `开始` which is colloquial. They both mean "to start/begin".
+>我们==可以从==这儿起吗？
+>==Can== we start ==from== here?
 
 >他从五点钟开始学习汉语。
 >He begins to study Chinese language from 5'o clock.
-
-Pattern
-
-丁文==常从==阅览室借杂志。
 
 ---
 

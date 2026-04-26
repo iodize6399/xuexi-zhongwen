@@ -26,7 +26,9 @@ when one agrees with one another, reply with `是的` or `是`
 `男` and `女` cannot stand alone.
 
 >男朋友/女朋友
+>Boyfriend/Girlfriend
 >男医生/女医生
+>Male doctor/Female doctor
 
 
 # Measure word for 本子 - Notebook

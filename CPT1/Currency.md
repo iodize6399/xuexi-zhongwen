@@ -7,9 +7,9 @@ created: 2026-03-03
 ---
 # Units of currency
 
-块：==k==uai（元：==y==uan）
-毛：==m==ao（角： ==j==iao）
-分：==f==en
+块：==k==uài (元：==y==uán）
+毛：==m==áo (角： ==j==iao）
+分：==f==ēn
 
 Either use `k-m-f` or `y-j-f`
 
@@ -19,7 +19,10 @@ Either use `k-m-f` or `y-j-f`
 
 # Numeration of numbers
 
-For number from 110 to 119: always mention the 一 (yi) before the 十 like  一百一十九 (119)
+For number from 110 to 119: always prefix 一 to 十
+
+>一百==一==十九
+>119
 
 ## 多少 vs 几
 
@@ -68,5 +71,3 @@ See [[Verbs with two objects#Similarly for 问, 借, 还 and 找]]
 # To ask condition of a noun
 
 See [[Question Words#怎么样]]
-
-

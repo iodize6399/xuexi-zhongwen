@@ -17,6 +17,7 @@ created: 2026-03-03
 Write `不` before the verb.
 
 >我不看杂志，我看画报。
+>He does not reads magazines, he reads pictorial.
 
 # Affirmative-negative question
 

@@ -46,7 +46,7 @@ created: 2026-03-03
 - Use of measure word between `几` and noun is mandatory.
 
 >他有==几本==中文书？
->==How many ==books does he have?
+>==How many== Chinese books does he have?
 
 #### to ask about time
 
@@ -62,20 +62,16 @@ Also see [[#什么时候]]
 
 ## Choice-type questions
 
-See [[或者 vs 还是]]
 ### 还是
 
-Choice-type questions using two or three alternatives connected by 还是
-
->你去还是他去?
->Will you or he go?
->你去教室还是去图书馆?
->Will you go the school or library?
-
->[!note]
->Verb is repeated after the 还是 
+See [[或者 vs 还是]]
 
 ## 吗 - Interrogative Particle
+
+### Simple yes-no
+
+>上午你练习拼音==马==？
+>Do you practice pinyin in the morning?
 
 ### Soliciting approval (Only expecting "yes")
 
@@ -84,20 +80,19 @@ End the question with `...好吗？`
 >我们一起去图书馆，==好吗==？
 >Shall we go to the library together?
 
->我问问题，你回答，好吗？
+>我问问题，你回答，==好吗==？
 >I shall ask the question, and you answer, okay?
 
 ## Rhetorical question using `呢`
 
 - Asks a rhetorical question
 
->我叫麦克，你呢？
+>我叫麦克，你==呢==？
 >My name is Mike, what about you?
 
 ## 怎么样
 
 "how"
-
 ### To ask condition of a noun
 
 `N + 怎么样 ？`

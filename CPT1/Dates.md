@@ -53,4 +53,3 @@ Prefix `星期` then the numeral of the weekday.
 # Order of writing Dates
 
 `Year + Month + Date + (Day) + (Time-of-Day) + Hour + Minute`
-

@@ -53,14 +53,14 @@ created: 2026-03-03
 
 # Lesson 11
 
-- [[Measure Words]] - 支, 
+- [[Measure Words]] - 口, 张, 本, 把, 位, 篇, 个, 些, 节, 支
 - [[两 vs 二#Before a measure word|Using 两]] before a measure word
 - [[Usage of 有]]
 
 # Lesson 12
 
 - [[Adjective-Predicate sentence]]
-- [[Adjective-Predicate sentence#Using demonstrative pronoun as an attributive with the adjective|Demonstrative pronoun as an attributive]]
+- [[Adjective-Predicate sentence#Using demonstrative pronoun as an attributive with the adjective|Demonstrative pronouns as an attributive]] - 这, 那
 
 # Lesson 13
 

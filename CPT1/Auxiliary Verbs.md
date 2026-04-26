@@ -46,6 +46,8 @@ There are 5 auxiliary verbs:
 
 >你==要==这本书吗？
 >——我==不想==这本书。
+>Do you want this book?
+>I don't want this book.
 
 
 ---
@@ -79,7 +81,6 @@ to know how to (skill acquired through practice)
 
 ## Examples
 
-
 Regain of ability
 
 >他病好了，能上课。
@@ -111,7 +112,11 @@ Permission seeking or permission granted
 >Also see [[Prepositions#从]]
 
 
->那个大操场我们可以打篮球吗？
+>1. 那个大操场我们可以打篮球吗？
+>2. 我们在那个大操场可以打篮球吗
+>3. 我们可以在那个大操场打篮球吗？
+>
 >——==不能==打篮球，==只能==踢足球。
+
 >Can we play basketball on that big playground?
 >Cannot play basketball, can only play football.

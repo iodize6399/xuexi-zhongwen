@@ -24,9 +24,6 @@ Use 是 when things are most specific:
 1. name of the location is given
 2. adjective of that location is described
 
->[!tip] Repeat 在 when used with 还是
->电影厅==在楼上==还是==在楼下==？
-
 >[!warning]
 >When using 在 as a verb (location word) do not end it with a verb phrase, or else, it will become a preposition.
 

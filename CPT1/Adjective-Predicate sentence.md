@@ -18,8 +18,8 @@ lesson: 12
 >Our classroom is very neat.
 
 >[!tip] Compare by removing `很`
->男学生多，女学生少。
->There are more male students as compared to female students, who are few.
+>	男学生多，女学生少。
+>	There are more male students as compared to female students, who are few.
 
 # Negation
 

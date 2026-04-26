@@ -43,7 +43,7 @@ To/Before the Hour: `差 (chà) + [Minutes Left] + 分 + [Next Hour] + 点(钟)`
 `现在 + 是 + Part of Day + Time Phrase`
 
 >现在==是==下午两点三刻。
->Currently, it's 2 o'clock in the afternoon.
+>Currently, it's 2:45 in the afternoon.
 
 To answer only the current time:
 `现在 + Time Phrase`

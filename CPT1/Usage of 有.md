@@ -24,3 +24,5 @@ Negate 有 using 没
 
 >他没有中文画报。
 >He does not have a Chinese pictorial.
+
+See also: [[Location Words - As Verbs]]
