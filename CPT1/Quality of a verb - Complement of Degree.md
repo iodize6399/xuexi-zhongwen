@@ -66,7 +66,7 @@ See [[Question Words#To ask/confirm about quality of the verb]]
 
 ## Using `吗`（interrogative particle)
 
->他练习拼音联系得很认真==吗==？
+>他练习拼音练习得很认真==吗==？
 >Does he practices pinyin conscientiously or not?
 
 
@@ -88,6 +88,6 @@ For non-duplicate structure, add adverb **before the adjective and immediately a
 
 ## Unique sentences
 
-> 他们玩得很==高兴==。
+> 他们玩儿得很==高兴==。
 > They have a great time.
 > They play very happily.

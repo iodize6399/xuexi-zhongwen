@@ -70,7 +70,7 @@ See [[或者 vs 还是]]
 
 ### Simple yes-no
 
->上午你练习拼音==马==？
+>上午你练习拼音==吗==？
 >Do you practice pinyin in the morning?
 
 ### Soliciting approval (Only expecting "yes")

@@ -45,6 +45,9 @@ Lists all important assets and blobs.
 
 ![[cp1_final_june21.pdf]]
 
+![[cp1_final_script-translation_paper1_2026.pdf]]
+
+![[cp1_final_script-translation_paper2_2026.pdf]]
 ## pleco flashcards
 
 There are 371 words, 4-5 words might be repeated.

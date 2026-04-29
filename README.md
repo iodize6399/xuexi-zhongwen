@@ -2,24 +2,22 @@
 tags:
   - learning/chinese
   - delhi-university
-  - misc
-lesson:
 created: 2026-03-03
 ---
-These are my notes from the first of the 4 parts of _Elementary Chinese Readers_ by Sinolingua, China (`ISBN: 9780835125017`) published in 1989, which is the standard textbook for the part-time Chinese language course at **Delhi University**.
-
->[!NOTE]
->Some notes are somewhat stubs. Cross-reference with the textbook for topics that you feel thin.
+These are my notes from the first of the 4 parts of _Elementary Chinese Readers_ by Sinolingua, China (`ISBN: 9780835125017`) published in 1989.
 ## how to use
 
 > [!TIP]
-> These notes use **Obsidian-flavored markdown** hence, hence, are best viewed on Obsidian.
+> These notes use **Obsidian-flavored markdown** hence, are best viewed on Obsidian.
 
 1. clone or download this repo
 2. simply open the repo as a vault in [Obsidian](https://obsidian.md/help/vault#Open+existing+folder)
 3. start previewing [[MoC]]
 4. checkout [[Resources]] 
 5. use property `lesson` to sort from lesson numbers, or simply search for an important word
+
+>[!NOTE]
+>Some notes are somewhat stubs. Cross-reference with the textbook for topics that you feel thin.
 
 - all internal links, binary embeds, and backlinks should work out of the box
 - feel free to fork, contribute or do as you wish
@@ -31,7 +29,6 @@ These are my notes from the first of the 4 parts of _Elementary Chinese Readers_
 >If you are the rights holder and wish for these to be removed, please open an issue.
 
 # few points
-
 ## regarding textbook
 
 - this textbook is the archetypal product of the _Mainland Chinese language standardization project_, designed to teach the Beijing-accent, so you'll find more érhuà and neutral tones as compared to _Guóyǔ_ (Taiwan) books, which use traditional characters and have less _érhuà_.
@@ -56,6 +53,7 @@ These are my notes from the first of the 4 parts of _Elementary Chinese Readers_
 
 ## regarding course
 
+- this textbook is the standard for the part-time Chinese language course at **Delhi University**.
 - usually there are 2 sections at St. Stephen's College, I was enrolled in section a.
 - you’ll be told to repeat Chinese characters and solve textbook exercise in a grid notebook. However, I repeated characters in a grid notebook and solved exercises in a ruled notebook (answer sheets will be ruled, so acclimatize early on to ruled notebooks)
 - for the first few chapters use 0.5 mm lead pencil, then switch writing with pen. I used Uniball Zento 0.5mm but I recommend 0.3 mm (that blue ink is especially vibrant)
@@ -74,6 +72,9 @@ These are my notes from the first of the 4 parts of _Elementary Chinese Readers_
 | 3     | Audio-Oral                       | 100   | Not time-bound |
 | 4     | Internal Assessment - Written    | 50    | ~2 hours       |
 | 5     | Internal Assessment - Audio/Oral | 50    | Not time-bound |
+
+>[!tip]
+>if you can commit to a language and don't mind the extreme ramp, then I suggest doing Masters, since it has the same course duration as part-time (3 years) and you'll hold a proper degree than diploma (which the part-time course is about)
 
 ---
 
